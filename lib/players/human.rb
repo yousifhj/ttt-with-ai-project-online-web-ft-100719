@@ -1,3 +1,0 @@
-module Human::Player
-  
-end 
