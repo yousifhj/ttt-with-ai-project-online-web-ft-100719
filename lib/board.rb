@@ -31,7 +31,7 @@ class Board
   end 
   
   def taken?(position)
-    self.position
+    self.cells[position.to_i-1] == "X"
   end 
   
 end 
