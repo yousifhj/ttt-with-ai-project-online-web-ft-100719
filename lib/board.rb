@@ -36,5 +36,5 @@ class Board
   end 
   
   def valid_move?
-    taken?
+    taken?(position)
 end 
