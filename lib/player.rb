@@ -4,3 +4,4 @@ clas Player
     @player = player 
   end 
   
+end 
