@@ -1,3 +1,3 @@
-module Human < Player
+module Human::Player
   
 end 
