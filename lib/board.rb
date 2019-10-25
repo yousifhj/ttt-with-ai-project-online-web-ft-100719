@@ -30,8 +30,8 @@ class Board
     self.cells.count("X") + self.cells.count("O") 
   end 
   
-  def taken?
-    
+  def taken?(position)
+    self.position
   end 
   
 end 
