@@ -1,4 +1,4 @@
-clas Player
+class Player
 
 
 end 
